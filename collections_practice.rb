@@ -9,5 +9,3 @@ end
 def SORT_ARRAY_CHAR_COUNT(array)
     array.sort_by {|i| i.length}
   end
-
-end
